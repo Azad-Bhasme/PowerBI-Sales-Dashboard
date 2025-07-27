@@ -7,7 +7,7 @@ This project is a fully interactive **Sales Dashboard and Forecasting** report b
 ## 🔧 Tools Used:
 - Power BI
 - DAX
-- Excel
+
 
 ---
 
